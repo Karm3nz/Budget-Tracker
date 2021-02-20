@@ -11,6 +11,7 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 connection 
 SO THAT my account balance is accurate when I am traveling
 ````
+https://track-your-budget-offline.herokuapp.com/
 
 ![Budget Tracker Screenshot](public/assets/budgetTracker_screenshot.png)
 
